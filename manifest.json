@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Shopify schema intellisense",
+  "description": "Shopify theme development schema intellisense extension",
+  "version": "1.0"
+}
